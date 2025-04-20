@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -30,4 +30,4 @@ I grew up in a small town called [Xihai](https://www.google.com/maps/place/Xihai
 
 I am currently a postdoctoral fellow in the [Glasgow Lab](https://glasgowlab.org) at Columbia University, continuing my journey to explore protein dynamics and conformational landscapes. My research lies at the intersection of computational and experimental biophysics, combined with machine learning, to understand allosteric regulation and to advance the de novo design of allosteric proteins.
 
-I'm developing methods to push the limits of HX/MS, enabling resolution-level resolution of protein dynamics and uncovering allosteric regulation hidden from traditional structural techniques. These insights are guiding my long-term goal: designing allosteric proteins with controllable functions.
+I'm developing methods to push the limits of HX/MS, enabling residue-level resolution of protein dynamics and uncovering allosteric regulation hidden from traditional structural techniques. These insights are guiding my long-term goal: designing allosteric proteins with controllable functions.

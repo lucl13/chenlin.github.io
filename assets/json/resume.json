@@ -100,47 +100,47 @@
         "Solved high-resolution structures of the tunable gold clustering site",
         "Deposited PDBs: 7VIO, 7VIP, 7VIQ, 7VIR, 7VIS, 7VIT, and 7VIU"
       ]
-    } 
+    }
   ],
   "presentations": [
     {
       "name": "High-resolution protection factor estimation via isotopic envelope reconstruction from medium-resolution HDX/MS datasets",
-      "publisher": "Columbia University Postdoctoral Research Symposium", 
+      "publisher": "Columbia University Postdoctoral Research Symposium",
       "releaseDate": "2024-05-03",
       "url": "",
       "summary": "Poster Presentation, New York, United States"
     },
     {
       "name": "High-resolution protection factor estimation via isotopic envelope reconstruction from medium-resolution HDX/MS datasets",
-      "publisher": "Winter RosettaCon 2024", 
+      "publisher": "Winter RosettaCon 2024",
       "releaseDate": "2024-03-06",
       "url": "",
       "summary": "Poster Presentation, Boston, United States"
     },
     {
       "name": "Reshaping the Free Energy Landscape of Phosphofructokinase-1 by Allosteric Regulation",
-      "publisher": "Pre-RosettaCON 2023", 
+      "publisher": "Pre-RosettaCON 2023",
       "releaseDate": "2023-08-06",
       "url": "",
       "summary": "Talk, Seattle, United States"
     },
     {
       "name": "Reshaping the Free Energy Landscape of Phosphofructokinase-1 by Allosteric Regulation",
-      "publisher": "Columbia University Biophysics Mixer", 
+      "publisher": "Columbia University Biophysics Mixer",
       "releaseDate": "2023-06-26",
       "url": "",
       "summary": "Talk, New York, United States"
     },
     {
       "name": "Global and Kinetic Profiles of Substrate Diffusion in Candida Antarctica Lipase B: Molecular Dynamics with the Markov-State Model",
-      "publisher": "Green China 2019", 
+      "publisher": "Green China 2019",
       "releaseDate": "2019-10-17",
       "url": "",
       "summary": "Poster Presentation (Best Poster Award), Beijing, China"
     },
     {
       "name": "Global and Kinetic Profiles of Substrate Diffusion in Candida Antarctica Lipase B: Molecular Dynamics with the Markov-State Model",
-      "publisher": "The 9th Japan-China Symposium on Chemical Engineering", 
+      "publisher": "The 9th Japan-China Symposium on Chemical Engineering",
       "releaseDate": "2019-03-13",
       "url": "",
       "summary": "Poster Presentation, Tokyo, Japan"
@@ -167,67 +167,49 @@
       "name": "Programming language",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python", "Bash", "Tcl"
-      ]
+      "keywords": ["Python", "Bash", "Tcl"]
     },
     {
       "name": "Machine learning",
       "level": "Advanced",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Scikit-learn", "PyTorch", "Lightning"
-      ]
+      "keywords": ["Scikit-learn", "PyTorch", "Lightning"]
     },
     {
       "name": "Data analytics and visualization",
       "level": "Advanced",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "NumPy, Pandas", "Matplotlib, Seaborn"
-      ]
+      "keywords": ["NumPy, Pandas", "Matplotlib, Seaborn"]
     },
     {
       "name": "Molecular dynamics",
       "level": "Expert",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Anton2", "Gromacs, OpenMM", "VMD, MDTraj, MDAnalysis"
-      ]
+      "keywords": ["Anton2", "Gromacs, OpenMM", "VMD, MDTraj, MDAnalysis"]
     },
     {
       "name": "Protein design and modeling",
       "level": "Expert",
       "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Autodock", "Rosetta", "ProteinMPNN, RFdiffusion"
-      ]
+      "keywords": ["Autodock", "Rosetta", "ProteinMPNN, RFdiffusion"]
     },
     {
       "name": "DFT calculations",
       "level": "Advanced",
       "icon": "fa-solid fa-calculator",
-      "keywords": [
-        "g16"
-      ]
+      "keywords": ["g16"]
     },
     {
       "name": "Experimental Biophysics",
       "level": "Proficient",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Protein expression and purification",
-        "Hydrogen exchange/mass spectrometry (HX/MS)",
-        "X-ray crystallography"
-      ]
+      "keywords": ["Protein expression and purification", "Hydrogen exchange/mass spectrometry (HX/MS)", "X-ray crystallography"]
     },
     {
       "name": "Markov state models",
       "level": "Advanced",
       "icon": "fa-solid fa-network-wired",
-      "keywords": [
-        "PyEmma", "Deeptime"
-      ]
+      "keywords": ["PyEmma", "Deeptime"]
     }
   ]
 }
